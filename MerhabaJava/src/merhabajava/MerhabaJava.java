@@ -23,6 +23,7 @@ public class MerhabaJava {
         System.out.println("Ad giriniz:");
         String ad=klavye.next();
         System.out.println("Merhaba "+ad);
+        System.out.println("Program sonlandı...");
         
         
     }
